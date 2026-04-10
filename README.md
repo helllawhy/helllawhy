@@ -1,4 +1,4 @@
-![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/5be04abc-900e-46aa-916c-b9d34f0f4059)
+![github-snake](https://github.com/user-attachments/assets/8968f286-ade3-41b0-8e65-541e973f636f)![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/5be04abc-900e-46aa-916c-b9d34f0f4059)
 
 
 ![banner](https://github.com/user-attachments/assets/1e2d259f-f132-4ccf-a654-ded6cf5f68e2)
@@ -11,7 +11,8 @@
 # 💫 About Me:
 ⚡I am a Frontend Developer in progress, passionate about building clean, user-friendly, and efficient interfaces that actually feel good to use. My journey into IT started alongside my work in education, where I developed strong communication, patience, and problem-solving skills — qualities that now shape how I approach coding.<br><br>🔭 Currently studying at RS School, where I am strengthening my skills in JavaScript and modern frontend development practices.<br>🌱 Coming from a background in pedagogical education, I have experience working as an English teacher and assistant educator, which taught me discipline, attention to detail, and the ability to learn fast under pressure.<br>🚀 Continuously improving through hands-on practice, personal projects, and consistent learning in web development, with a focus on JavaScript and building real-world applications.
 
-![github-snake](https://github.com/user-attachments/assets/79e2f16a-cdfc-4f4e-bd96-08bfaeea3eea)
+![github-snake](https://github.com/user-attachments/assets/1b182d39-965c-4d78-a6a1-97f037eaa541)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helllawhy/) 
