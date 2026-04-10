@@ -1,4 +1,5 @@
-![mtVyPBC](https://github.com/user-attachments/assets/7f9e94ad-4e65-40d4-b251-edf964f94b7e)
+![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/5be04abc-900e-46aa-916c-b9d34f0f4059)
+
 
 
 # 💫 About Me:
@@ -18,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=helllawhy&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
