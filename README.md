@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&pause=1000&color=4B0082&center=true&vCenter=true&width=435&lines=What's+up%2C+dude%3F+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&size=30&duration=3000&pause=500&color=4B0082&vCenter=true&width=435&lines=What's+up%2C+dude%3F+Contact+me!)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helllawhy/) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/helllawhy) 
