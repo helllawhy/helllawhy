@@ -11,8 +11,8 @@
 # 💫 About Me:
 ⚡I am a Frontend Developer in progress, passionate about building clean, user-friendly, and efficient interfaces that actually feel good to use. My journey into IT started alongside my work in education, where I developed strong communication, patience, and problem-solving skills — qualities that now shape how I approach coding.<br><br>🔭 Currently studying at RS School, where I am strengthening my skills in JavaScript and modern frontend development practices.<br>🌱 Coming from a background in pedagogical education, I have experience working as an English teacher and assistant educator, which taught me discipline, attention to detail, and the ability to learn fast under pressure.<br>🚀 Continuously improving through hands-on practice, personal projects, and consistent learning in web development, with a focus on JavaScript and building real-world applications.
 
-![github-snake](https://github.com/user-attachments/assets/ad1eb683-feb6-4d01-a74a-2eefa1ad870b)
 
+<img width="600" src="https://github.com/user-attachments/assets/ad1eb683-feb6-4d01-a74a-2eefa1ad870b" alt="snake" style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helllawhy/) 
