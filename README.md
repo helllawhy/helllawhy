@@ -1,10 +1,10 @@
-
+![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/5be04abc-900e-46aa-916c-b9d34f0f4059)
 
 
 # 💫 About Me:
 ⚡I am a Frontend Developer in progress, passionate about building clean, user-friendly, and efficient interfaces that actually feel good to use. My journey into IT started alongside my work in education, where I developed strong communication, patience, and problem-solving skills — qualities that now shape how I approach coding.<br><br>🔭 Currently studying at RS School, where I am strengthening my skills in JavaScript and modern frontend development practices.<br>🌱 Coming from a background in pedagogical education, I have experience working as an English teacher and assistant educator, which taught me discipline, attention to detail, and the ability to learn fast under pressure.<br>🚀 Continuously improving through hands-on practice, personal projects, and consistent learning in web development, with a focus on JavaScript and building real-world applications.
 
-![github-snake](https://github.com/user-attachments/assets/79e2f16a-cdfc-4f4e-bd96-08bfaeea3eea)![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/5be04abc-900e-46aa-916c-b9d34f0f4059)
+![github-snake](https://github.com/user-attachments/assets/79e2f16a-cdfc-4f4e-bd96-08bfaeea3eea)
 ![Uploa<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
