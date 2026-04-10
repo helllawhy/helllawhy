@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/helllawhy/) 
-[![Telegram]([https://img.shields.io/static/v1?message=Telegram&amp;logo=telegram&amp;label=&amp;color=2CA5E0&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge])](https://t.me/helllawhy) 
+[![Telegram]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white])](https://t.me/helllawhy) 
 
 
 # 💻 Tech Stack:
