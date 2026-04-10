@@ -15,6 +15,9 @@
 <img width="1000" src="https://github.com/user-attachments/assets/ad1eb683-feb6-4d01-a74a-2eefa1ad870b" alt="snake" style="max-width: 100%;">
 
 ## 🌐 Socials:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Saira+Stencil&pause=1000&color=4B0082&center=true&vCenter=true&width=435&lines=What's+up%2C+dude%3F+)](https://git.io/typing-svg)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/helllawhy/) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/helllawhy) 
 
